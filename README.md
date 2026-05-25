@@ -32,7 +32,7 @@ The implementation combines deep learning-based object detection, computer visio
 
 # Key Features
 
-![Traffic Features](traffic_features.png)
+![Traffic Features](vehicle_detection_yolov8-main/vehicle_detection_yolov8-main/vehicle_detection_yolov8/traffic_features/Key%20Features%20-%20visual%20selection.png)
 
 # Supported Vehicle Classes
 

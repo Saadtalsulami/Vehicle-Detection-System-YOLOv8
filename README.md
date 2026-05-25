@@ -41,6 +41,8 @@ The implementation combines deep learning-based object detection, computer visio
 
 # Key Features
 
+![Traffic Features](image/traffic_features.png)
+
 * Real-time vehicle detection
 * YOLOv8 object detection pipeline
 * Traffic density estimation

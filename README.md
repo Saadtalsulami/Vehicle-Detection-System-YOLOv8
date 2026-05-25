@@ -29,30 +29,10 @@ The system is designed to analyze traffic scenes, detect multiple vehicle catego
 
 The implementation combines deep learning-based object detection, computer vision techniques, and traffic analytics workflows to provide scalable and efficient traffic monitoring capabilities.
 
----
-
-# Detection Samples
-
-## Vehicle Detection Example
-
-![Detection Sample](images/detection_sample.png)
-
----
 
 # Key Features
 
-![Traffic Features](image/traffic_features.png)
-
-* Real-time vehicle detection
-* YOLOv8 object detection pipeline
-* Traffic density estimation
-* Multi-vehicle classification
-* Video frame analysis
-* Intelligent traffic monitoring
-* Deep learning inference workflow
-* Computer vision-based transportation analytics
-
----
+![Traffic Features](vehicle_detection_yolov8/traffic_features.png)
 
 # Supported Vehicle Classes
 

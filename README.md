@@ -1,4 +1,15 @@
-# 🚗 Vehicle Detection and Traffic Density Estimation using YOLOv8
+#Vehicle Detection and Traffic Density Estimation using YOLOv8
+
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-black?style=for-the-badge)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?style=for-the-badge&logo=opencv)
+
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+---
 
 ## Overview
 This repository contains an **end-to-end computer vision pipeline** for vehicle detection and traffic density estimation using **YOLOv8**.  
